@@ -50,4 +50,3 @@ class Solution:
             curr = curr.next
         
         return new_list
-        
